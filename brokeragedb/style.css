@@ -1,0 +1,37 @@
+ul {
+    text-align: center;
+}
+
+ul li {
+    display: inline;
+    list-style: none;
+}
+
+ul li a {
+    text-decoration: none;
+    color: #000000;
+    font-size: 26px;
+    padding: 0px 0px 0px 20px;
+}
+
+div {
+    text-align: center;
+    font-size: 18px;
+}
+
+button {
+    width: auto;
+    height: auto;
+    background-color: rgb(117, 112, 112);
+    color: #ffffff;
+    font-size: 18px;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 18px;
+    border: solid black;
+    width: auto;
+}
